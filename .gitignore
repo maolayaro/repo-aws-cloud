@@ -1,0 +1,14 @@
+.cache/
+.dotnet/
+.local/
+.ssh/
+.vscode-server/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.wget-hsts
+serverclase.py
+templates/Terminal.html
+static/css/StyleTerminal.css
+nuevo-repo/

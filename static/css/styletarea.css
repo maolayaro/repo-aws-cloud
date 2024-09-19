@@ -1,0 +1,93 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ccdce7; /* Azul claro de fondo */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #d2dcf8; /* Fondo blanco para el contenedor */
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .form-container {
+            background-color: #eeeeee; /* Verde muy claro para el fondo del formulario */
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h1 {
+            color: #007bff; /* Azul para el encabezado */
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        .form-group input, .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ffffff;
+            border-radius: 4px;
+            background-color: #ffffff; /* Azul muy claro para las cajas de entrada */
+        }
+        .form-group button {
+            padding: 10px 15px;
+            border: none;
+            background-color: #28a745; /* Verde para el botón */
+            color: white;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .form-group button:hover {
+            background-color: #218838; /* Verde oscuro para el botón en hover */
+        }
+        .activity-list {
+            margin-top: 20px;
+        }
+        .activity-list h2 {
+            color: #007bff; /* Azul para el encabezado de la lista de actividades */
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .activity-list table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        .activity-list table th, .activity-list table td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        .activity-list table th {
+            background-color: #007bff; /* Azul para los encabezados de la tabla */
+            color: white;
+        }
+        .activity-list table tr:nth-child(even) {
+            background-color: #f9f9f9; /* Gris claro para filas alternas */
+        }
+        .activity-list table tr:hover {
+            background-color: #e3f2fd; /* Azul claro para filas al pasar el cursor */
+        }
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
