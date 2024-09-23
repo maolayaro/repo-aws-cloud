@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(203, 212, 205);
+}
+.fondo {
+    background-image:url(fondo.png);
+    background-size: cover;
+    background-position: center;
+}
+div {
+    font-size: 40px;
+    color: rgb(28, 216, 216);
+    text-align: center;
+    }
+
+button {
+    font-size: 20px;
+    color: rgb(245, 246, 247);
+    background-color: rgb(21, 129, 70);
+    padding: 10px;
+}
