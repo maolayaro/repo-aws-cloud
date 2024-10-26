@@ -1,0 +1,17 @@
+.cache/
+.dotnet/
+.local/
+.ssh/
+.vscode-server/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.wget-hsts
+serverclase.py
+nuevo-repo/
+.lesshst
+__pycache__
+.git
+*.log
+node_modules
