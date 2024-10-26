@@ -12,6 +12,3 @@ serverclase.py
 nuevo-repo/
 .lesshst
 __pycache__
-.git
-*.log
-node_modules
